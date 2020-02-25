@@ -1607,15 +1607,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mars\\.nuget\\packages\\": {}
+    "C:\\Users\\linpe\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "ui_2020_0220",
       "projectName": "ui_2020_0220",
-      "projectPath": "D:\\Workspace\\ui_2020_0220\\.local",
-      "packagesPath": "C:\\Users\\Mars\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\ui_2020_0220\\.local"
+      "projectPath": "D:\\Workspace\\ui_20200223\\.local",
+      "packagesPath": "C:\\Users\\linpe\\.nuget\\packages\\",
+      "outputPath": "D:\\Workspace\\ui_20200223\\.local"
     },
     "frameworks": {
       "net461": {
