@@ -1,0 +1,1 @@
+C:\Users\linpe\AppData\Local\UiPath\app-19.10.1\UiRobot.exe execute --file "D:/Workspace/ui_20200223/Print.xaml" --input "{'inputfile':'D:/by/图件/巴彦包勒格矿区银多金属矿0号勘查线地质剖面图_分析表.dwf','height':1000,'width':3100}"
