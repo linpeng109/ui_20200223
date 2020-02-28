@@ -151,7 +151,7 @@
         </Sequence>
       </ui:OnUiElementAppear.Body>
       <ui:OnUiElementAppear.Target>
-        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="c7e4cd7af49e68f316889eabe0ce1119" Selector="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='巴彦包勒格矿区银多金属矿0号勘查线地质剖面图_分析表.pdf - Adobe Acrobat Pro DC' /&gt;">
+        <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" InformativeScreenshot="c7e4cd7af49e68f316889eabe0ce1119" Selector="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='*- Adobe Acrobat Pro DC' /&gt;">
           <ui:Target.TimeoutMS>
             <InArgument x:TypeArguments="x:Int32" />
           </ui:Target.TimeoutMS>
