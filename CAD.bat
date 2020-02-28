@@ -1,0 +1,1 @@
+C:\Users\linpe\AppData\Local\UiPath\app-19.10.1\UiRobot.exe execute --file "D:/Workspace/ui_20200223/CAD.xaml" --input "{'inputfile':'D:/by/图件/巴彦包勒格矿区银多金属矿480m水平断面图','height':3100,'width':1000}"
